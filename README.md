@@ -34,7 +34,7 @@ It receives customer messages, generates intelligent replies using AI, and sends
 ---
 
 ## 📸 Workflow Screenshot
-![Workflow](Ai customer support.PNG)
+![Workflow](Ai%20customer%20support.PNG)
 
 ---
 
