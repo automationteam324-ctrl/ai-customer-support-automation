@@ -1,4 +1,4 @@
-# 🤖 AI Customer Support Chatbot (n8n)
+# 🤖 AI Customer Support Chatbot for eCommerce (n8n + AI)
 
 ## 🚀 Overview
 This automation is designed to handle customer support queries automatically using AI.
@@ -54,6 +54,9 @@ It receives customer messages, generates intelligent replies using AI, and sends
 
 ---
 
-## 📌 Author
-Zoha Aslam  
-Automation Specialist (n8n | AI | Shopify)
+## 📩 Need this automation?
+
+If you want a similar system for your business, feel free to contact me.
+
+🔗 Fiverr: https://www.fiverr.com/automationte387  
+🔗 Upwork: https://www.upwork.com/freelancers/~014bc64d5756b66b94 
